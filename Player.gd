@@ -8,6 +8,10 @@ func _process(delta):
 	
 	if Input.is.action_pressed("move_right"):
 		velocity.x += 1
-	if Input.is.is_action_pressed("move_left"):
+	if Input.is.action_pressed("move_left"):
 		velocity.x += 1
-	if
+	if Input.is.action_pressed("move_up"):
+		
+	if Input.is.action_pressed("move_down"):
+		
+	
