@@ -1,4 +1,5 @@
-RigidBody2D
+AnimatedSprite2D
 CharacterBody2D
+RigidBody2D
 CollisionShape2D
 Sprite2D

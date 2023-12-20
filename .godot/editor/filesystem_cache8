@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1703100782
+::res://::1703101846
 bg_music.mp3::AudioStreamMP3::7740025162993226110::1702401875::1703099208::1::::<><>::
 enemy.png::CompressedTexture2D::5591272491634969294::1702401875::1703099208::1::::<><>::
 enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702401875::1703099208::1::::<><>::
 icon.svg::CompressedTexture2D::7653978998285427738::1702401692::1703099208::1::::<><>::
-Player.gd::GDScript::-1::1703100546::0::1::::<>Area2D<>::
-player.tscn::PackedScene::4735778124905797993::1703100327::0::1::::<><>::res://player.gd<>uid://dhbv6eyh45c07::::res://icon.svg
-world.tscn::PackedScene::5304408704494429493::1703100327::0::1::::<><>::
+Player.gd::GDScript::-1::1703101398::0::1::::<>Area2D<>::
+player.tscn::PackedScene::4735778124905797993::1703101039::0::1::::<><>::uid://b8qbtrlc1hr3v::::res://player.tscn
+world.tscn::PackedScene::5304408704494429493::1703101398::0::1::::<><>::
